@@ -1,0 +1,19 @@
+=== Creamailer for WooCommerce ===
+1.0.2
+* Bump tag version. Tested on Wordpress 6.2.
+
+1.0.1
+* Added option to show consent message.
+
+1.0.0
+* Tested for Wordpress 6.1
+
+0.0.5
+* set HTTP/S POST unblocking
+
+0.0.4
+* test compability with WP 6.0
+
+0.0.3
+* Removing plugin clears settings
+* Change name in settings area

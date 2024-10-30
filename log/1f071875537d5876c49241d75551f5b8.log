@@ -1,0 +1,78 @@
+array (
+  'headers' => 
+  Requests_Utility_CaseInsensitiveDictionary::__set_state(array(
+     'data' => 
+    array (
+      'server' => 'nginx/1.20.1',
+      'date' => 'Mon, 14 Jun 2021 10:50:19 GMT',
+      'content-type' => 'application/json; charset=UTF-8',
+      'x-powered-by' => 'PHP/7.3.28',
+    ),
+  )),
+  'body' => '{"error":true,"type":"Authentication","message":"Your access token is either missing or incorrect. Please check the X-Access-Token header and try again."}',
+  'response' => 
+  array (
+    'code' => 401,
+    'message' => 'Unauthorized',
+  ),
+  'cookies' => 
+  array (
+  ),
+  'filename' => NULL,
+  'http_response' => 
+  WP_HTTP_Requests_Response::__set_state(array(
+     'response' => 
+    Requests_Response::__set_state(array(
+       'body' => '{"error":true,"type":"Authentication","message":"Your access token is either missing or incorrect. Please check the X-Access-Token header and try again."}',
+       'raw' => 'HTTP/1.1 401 Unauthorized
+server: nginx/1.20.1
+date: Mon, 14 Jun 2021 10:50:19 GMT
+content-type: application/json; charset=UTF-8
+transfer-encoding: chunked
+x-powered-by: PHP/7.3.28
+connection: close
+
+{"error":true,"type":"Authentication","message":"Your access token is either missing or incorrect. Please check the X-Access-Token header and try again."}',
+       'headers' => 
+      Requests_Response_Headers::__set_state(array(
+         'data' => 
+        array (
+          'server' => 
+          array (
+            0 => 'nginx/1.20.1',
+          ),
+          'date' => 
+          array (
+            0 => 'Mon, 14 Jun 2021 10:50:19 GMT',
+          ),
+          'content-type' => 
+          array (
+            0 => 'application/json; charset=UTF-8',
+          ),
+          'x-powered-by' => 
+          array (
+            0 => 'PHP/7.3.28',
+          ),
+        ),
+      )),
+       'status_code' => 401,
+       'protocol_version' => 1.1,
+       'success' => false,
+       'redirects' => 0,
+       'url' => 'https://api.cmfile.net/v1/api/lists.json',
+       'history' => 
+      array (
+      ),
+       'cookies' => 
+      Requests_Cookie_Jar::__set_state(array(
+         'cookies' => 
+        array (
+        ),
+      )),
+    )),
+     'filename' => NULL,
+     'data' => NULL,
+     'headers' => NULL,
+     'status' => NULL,
+  )),
+)

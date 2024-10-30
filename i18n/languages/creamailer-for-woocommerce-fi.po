@@ -1,0 +1,119 @@
+#
+#  <>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Creamailer for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-17 11:40+0000\n"
+"PO-Revision-Date: 2023-05-10 15:21+0200\n"
+"Last-Translator: \n"
+"Language-Team: Suomi\n"
+"Language: fi\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Gtranslator 3.36.0\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2\n"
+"X-Domain: creamailer-for-woocommerce"
+
+#: src/wp-creamailer-plugin.php:170
+msgid "Access token"
+msgstr "Asiakastunnus"
+
+#: src/wp-creamailer-plugin.php:160
+#| msgid "API Settings"
+msgid "API-Settings"
+msgstr "API-asetukset"
+
+#: src/wp-creamailer-plugin.php:210
+msgid "Choose mailinglist"
+msgstr "Valitse postituslista"
+
+#: src/wp-creamailer-plugin.php:162
+msgid "connected"
+msgstr "Yhteys muodostettu"
+
+#. Name of the plugin
+msgid "Creamailer for WooCommerce"
+msgstr ""
+
+#: src/wp-creamailer-plugin.php:153
+msgid "Creamailer integration for WooCommerce"
+msgstr "Creamailer integrointi WooCommerceen"
+
+#: src/wp-creamailer-plugin.php:218
+msgid "Enable error log"
+msgstr "Aktivoi virhelogi"
+
+#. Author of the plugin
+msgid "Gurumedia Oy"
+msgstr "Gurumedia Oy"
+
+#. URI of the plugin
+#. Author URI of the plugin
+#| msgid "https://www.gurumedia.fi"
+msgid "https://gurumedia.fi"
+msgstr "https://gurumedia.fi"
+
+#: src/wp-creamailer-plugin.php:199
+msgid "Mailinglist"
+msgstr "Postituslista"
+
+#: src/wp-creamailer-plugin.php:264
+msgid "Need help?"
+msgstr "Tarvitsetko apua?"
+
+#: src/wp-creamailer-plugin.php:164
+msgid "No connection"
+msgstr "Ei yhteyttä"
+
+#: src/wp-creamailer-plugin.php:190
+msgid "Opt-in text"
+msgstr "  Lupakysymys"
+
+#: src/wp-creamailer-plugin.php:183
+msgid "Opt-in text to show customer"
+msgstr "Tilaa uutiskirje"
+
+#: src/wp-creamailer-plugin.php:269
+msgid "See the official help article"
+msgstr "Lue virallinen tukiartikkeli"
+
+#: src/wp-creamailer-plugin.php:234
+msgid "Hide the permission question and add to the list"
+msgstr "Piilota lupakysymys ja lisää listalle"
+
+#: src/wp-creamailer-plugin.php:248
+msgid "Send mailinglists automatic messages"
+msgstr "Lähetä postituslistan automaattiset viestit"
+
+#: src/wp-creamailer-plugin.php:256
+msgid "Send mailinglists automatic messages even if subscriber exists"
+msgstr ""
+"Lähetä postituslistan automaattiset viestit vaikka käyttäjä olisi listalla"
+
+#: src/wp-creamailer-plugin.php:177
+msgid "Shared secred"
+msgstr "Yhteinen tunniste"
+
+#. Description of the plugin
+msgid "Simple Creamailer integration for WooCommerce."
+msgstr "Creamailer integrointi WooCommerceen."
+
+#: src/wp-creamailer-plugin.php:188
+msgid "Subscribe to our newsletter"
+msgstr "Tilaa uutiskirje"
+
+#: src/wp-creamailer-plugin.php:271
+msgid "View error log"
+msgstr "Katso virhelogi"
+
+#: src/wp-creamailer-plugin.php:172
+msgid "Your access token (asiakastunnus)"
+msgstr "Asiakastunnus"
+
+#: src/wp-creamailer-plugin.php:179
+msgid "Your shared secred (yhteinen tunniste)"
+msgstr "Yhteinen tunniste"

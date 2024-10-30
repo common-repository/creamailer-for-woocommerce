@@ -1,0 +1,80 @@
+div#cfw-plugin-settings {
+	display: inline-block;
+}
+
+div#cfw-plugin-settings div#cfw-plugin-api-container {
+	display: flex;
+}
+
+div#cfw-plugin-settings div#cfw-plugin-api-container small.cfw-plugin-connect-indicator {
+	align-items: center;
+	border-radius: 4px;
+	color: #fff;
+	display: flex;
+	font-size: 0.75rem;
+	height: 2em;
+	line-height: 1.5;
+	padding-left: 0.75rem;
+	padding-right: 0.75rem;
+	white-space: nowrap;
+	margin: auto 10px auto auto;
+}
+
+div#cfw-plugin-settings div#cfw-plugin-api-container small#cfw-plugin-connected {
+	background-color: #209cee;
+}
+
+div#cfw-plugin-settings div#cfw-plugin-api-container small#cfw-plugin-not-connected {
+	background-color: #ff3860;
+}
+
+div#cfw-plugin-settings th {
+	display: none;
+}
+
+div#cfw-plugin-settings td {
+	padding: 0px 0px 5px 0px;
+}
+
+
+div#cfw-plugin-settings p.cfw-required {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+	font-weight: 600;
+	color: #3c434a;
+}
+
+div#cfw-plugin-settings p.cfw-required::after {
+	color: #f00;
+	content: '*';
+}
+
+div#cfw-plugin-settings div#cfw-settings-header {
+	align-items: center;
+	display: flex;
+	justify-content: space-between;
+}
+
+div#cfw-plugin-settings div#cfw-settings-header img {
+	height: 30px !important;
+	margin-top: 10px;
+}
+
+div#cfw-plugin-settings h2 {
+	display: inline;
+}
+
+div#cfw-plugin-settings input#cfw-plugin-shared-secret-field {
+	width: 100%;
+}
+
+div#cfw-plugin-settings input#cfw-plugin-access-token-field {
+	width: 100%;
+}
+
+div#cfw-plugin-settings input#cfw-plugin-optin-text-field {
+	width: 100%;
+}
+
+div#cfw-plugin-settings hr#cfw-plugin-hr {
+	margin-top: 15px;
+}
